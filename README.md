@@ -71,3 +71,5 @@ C# : [Extensions](https://marketplace.visualstudio.com/items?itemName=ms-vscode.
 
 Ionide-fsharp : [Extensions](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)
 
+Ionide-Paket : [Extension](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-Paket)
+
